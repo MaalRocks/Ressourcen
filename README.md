@@ -19,3 +19,5 @@
     - [Bosk](https://freetypography.com/2017/10/08/free-font-bosk/)
     - [mr-grieves](https://freetypography.com/2018/09/16/free-font-mr-grieves/)
 
+- React animations lib
+  - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion)
