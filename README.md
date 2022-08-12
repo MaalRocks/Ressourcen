@@ -29,3 +29,6 @@
   
 - TanStack
   - [overview](https://tanstack.com/)
+
+- GraphQL
+  - [generate code from Schema](https://www.graphql-code-generator.com/)
