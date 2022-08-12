@@ -32,3 +32,4 @@
 
 - GraphQL
   - [generate code from Schema](https://www.graphql-code-generator.com/)
+    - [PlugIn](https://www.graphql-code-generator.com/plugins/typescript/typescript-react-query)
