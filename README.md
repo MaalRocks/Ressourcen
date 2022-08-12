@@ -27,8 +27,9 @@
   - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion)
   
   
-- TanStack
-  - [overview](https://tanstack.com/)
+- React Query
+  - [Practical Guide](https://tkdodo.eu/blog/practical-react-query)   
+  - [tanStack](https://tanstack.com/)
 
 - GraphQL
   - [generate code from Schema](https://www.graphql-code-generator.com/)
