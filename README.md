@@ -4,6 +4,9 @@
 ## Table of Contents
 - Website Design
   - [nicepage.com - inspiration](https://nicepage.com/de/website-design)
+ 
+- TailwindCSS
+  - [Docs](https://tailwindcss.com/docs/aspect-ratio)
 
 - Remix
   - [egghead.io - Up and Running with Remix](https://egghead.io/courses/up-and-running-with-remix-b82b6bb6)
