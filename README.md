@@ -2,6 +2,10 @@
 > Learning HUB
 
 ## Table of Contents
+- General
+  - [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+  
+
 - Website Design
   - [nicepage.com - inspiration](https://nicepage.com/de/website-design)
  
