@@ -1,5 +1,6 @@
-# **Ressourcen**
-> Learning HUB
+# **Learning HUB**
+> ## Legende
+> - $/m = pay per month
 
 ## Table of Contents
 - General
@@ -28,7 +29,8 @@
     - [mr-grieves](https://freetypography.com/2018/09/16/free-font-mr-grieves/)
 
 - React animations lib
-  - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion)
+  - [react spring](https://github.com/pmndrs/react-spring)
+  - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion) | **$/m**
   
   
 - React Query
