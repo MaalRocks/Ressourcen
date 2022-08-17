@@ -1,5 +1,5 @@
 # **Learning HUB**
-> ## Legende
+> ## Legende:
 > - $/m = pay per month
 
 ## Table of Contents
@@ -20,39 +20,39 @@
       - [Codebasics](https://code.visualstudio.com/docs/editor/codebasics)
 
 
-- ### **General**
+- ### **General WebDev**
   - [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
   
-- Website Design
+- ### **Website Design**
   - [nicepage.com - inspiration](https://nicepage.com/de/website-design)
  
-- TailwindCSS
+- ### **TailwindCSS**
   - [Docs](https://tailwindcss.com/docs/aspect-ratio)
 
-- Remix
+- ### **Remix**
   - [egghead.io - Up and Running with Remix](https://egghead.io/courses/up-and-running-with-remix-b82b6bb6)
   - [remix.run - Quickstart](https://remix.run/docs/en/v1/tutorials/blog#quickstart)
 
-- NextJS
+- ### **NextJS**
   - [manage NextJS state with MobX](https://dev.to/ivandotv/mobx-server-side-rendering-with-next-js-4m18)
   
   
-- Fonts
+- ### **Fonts**
   - [freetypography](freetypography.com/)
     - [Basement](https://freetypography.com/2020/05/02/free-font-basement/)
     - [Wask New](https://freetypography.com/2015/09/06/free-font-wask-new/)
     - [Bosk](https://freetypography.com/2017/10/08/free-font-bosk/)
     - [mr-grieves](https://freetypography.com/2018/09/16/free-font-mr-grieves/)
 
-- React animations lib
+- ### **React animations lib**
   - [react spring](https://github.com/pmndrs/react-spring)
   - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion) | **$/m**
   
   
-- React Query
+- ### **React Query**
   - [Practical Guide](https://tkdodo.eu/blog/practical-react-query)   
   - [tanStack](https://tanstack.com/)
 
-- GraphQL
+- ### **GraphQL**
   - [generate code from Schema](https://www.graphql-code-generator.com/)
     - [PlugIn](https://www.graphql-code-generator.com/plugins/typescript/typescript-react-query)
