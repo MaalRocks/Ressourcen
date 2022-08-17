@@ -30,7 +30,7 @@
 
 ---
 
-- ### **Setups** :anger:
+- ### **Setups** :no_mouth:
   - NextJS + TailwindCSS + SVGR
     - [npx create-next-app@latest](https://nextjs.org/docs/getting-started)
     - [npm TailwindCSS](https://tailwindcss.com/docs/guides/nextjs)
