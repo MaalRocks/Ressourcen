@@ -3,10 +3,26 @@
 > - $/m = pay per month
 
 ## Table of Contents
-- General
+- ### **Cheat Sheets** :wheelchair:
+  - GitHub
+    - [GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#disabling-markdown-rendering)
+    - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+  - VS Code
+    - General Keyboard Shortcuts
+      - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+      - [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+      - [Mac](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+        - Strg + D = Mark the next appereance of the marked word
+    - Snippets
+      - [Variables](https://code.visualstudio.com/docs/editor/userdefinedsnippets#_variables)
+    - Codebasics
+      - [Codebasics](https://code.visualstudio.com/docs/editor/codebasics)
+
+
+- ### **General**
   - [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
   
-
 - Website Design
   - [nicepage.com - inspiration](https://nicepage.com/de/website-design)
  
