@@ -28,21 +28,34 @@
   - Unity
     - [GitHub Repo - **copy**](https://github.com/MaalRocks/Unity_CheatSheet)
 
+---
+
 - ### **General WebDev** :anger:
   - [Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+
+---
+
+- ### **ReactJS/NextJS** 	:feelsgood:
+  - [manage NextJS state with MobX](https://dev.to/ivandotv/mobx-server-side-rendering-with-next-js-4m18)
+  
+---  
   
 - ### **Website Design** :art:
   - [nicepage.com - inspiration](https://nicepage.com/de/website-design)
  
+--- 
+ 
 - ### **TailwindCSS** :rainbow:
   - [Docs](https://tailwindcss.com/docs/aspect-ratio)
+
+---
+
 
 - ### **Remix** :control_knobs:
   - [egghead.io - Up and Running with Remix](https://egghead.io/courses/up-and-running-with-remix-b82b6bb6)
   - [remix.run - Quickstart](https://remix.run/docs/en/v1/tutorials/blog#quickstart)
 
-- ### **NextJS** 	:feelsgood:
-  - [manage NextJS state with MobX](https://dev.to/ivandotv/mobx-server-side-rendering-with-next-js-4m18)
+---
   
   
 - ### **Fonts** :page_facing_up:
@@ -52,14 +65,19 @@
     - [Bosk](https://freetypography.com/2017/10/08/free-font-bosk/)
     - [mr-grieves](https://freetypography.com/2018/09/16/free-font-mr-grieves/)
 
+---
+
 - ### **React animations lib** :clapper:
   - [react spring](https://github.com/pmndrs/react-spring)
   - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion) | **$/m**
-  
-  
+ 
+---
+ 
 - ### **React Query** :postal_horn:
   - [Practical Guide](https://tkdodo.eu/blog/practical-react-query)   
   - [tanStack](https://tanstack.com/)
+
+---
 
 - ### **GraphQL** :cyclone:
   - [generate code from Schema](https://www.graphql-code-generator.com/)
