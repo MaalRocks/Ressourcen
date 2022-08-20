@@ -4,6 +4,9 @@
 
 ## Table of Contents
 - ### **Cheat Sheets** :wheelchair:
+  - General WebDev
+    - [Schmierzettel](https://github.com/MaalRocks/Ressourcen/blob/main/webDev.md)
+    
   - GitHub
     - [GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
