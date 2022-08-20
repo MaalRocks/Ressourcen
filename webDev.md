@@ -10,34 +10,43 @@ Table of contents
 * [req.body](#req.body)
 
 
-
-
 req.query
 =========
-
 **_contains_**:
-
  - the query params of the request
 
 **usage**:
-> url.com?foo=bar = {foo:"bar"}
+- GET
+- takes parameters in the URL
 
 **example**:
-> url.com?foo=bar = {foo:"bar"}
+`` url.com?foo=bar = {foo:"bar"} ``
 
-
----
 
 req.body
 =========
-*contains*:
+**contains**:
   - anything in the request body
->
-*usage*:
-  - Typically this is used on PUT and POST requests.
->
+
+**usage**:
+- POST , PUT
+- use ``enctype="application/x-www-form-urlencoded" ``
+
+
+**example**:
+> POST to url.com with the body of {"foo":"bar"} and a header of type application/json = {foo: "bar"}
+
+
+req.params
+=========
+**contains**:
+  - the end part of URL as parameter
+
+**usage**:
+get URL-values
+
 *example*:
-  - POST to url.com with the body of {"foo":"bar"} and a header of type application/json = {foo: "bar"}
+> POST to url.com with the body of {"foo":"bar"} and a header of type application/json = {foo: "bar"}
 
 
 
