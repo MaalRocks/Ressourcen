@@ -5,7 +5,7 @@
 ## Table of Contents
 - ### **Cheat Sheets** :wheelchair:
   - GitHub
-    - [GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#disabling-markdown-rendering)
+    - [GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
   - VS Code
