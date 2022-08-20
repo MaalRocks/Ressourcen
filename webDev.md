@@ -5,9 +5,9 @@ a bunch of shit you have to know to make webstuff
 
 Table of contents
 -----------------
-* [req.body](#req-body)  
-* [req.query](#req-query)
-* [req.body](#req-body)
+* [req.body](#reqbody)  
+* [req.query](#reqquery)
+* [req.body](#reqbody)
 
 
 req.body
