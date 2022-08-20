@@ -9,6 +9,7 @@
     
   - GitHub
     - [GitHub Doc](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    - [GitHub Markdown Codeblock supportet languages](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
     - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
   - VS Code
