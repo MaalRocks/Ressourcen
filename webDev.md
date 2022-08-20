@@ -27,7 +27,7 @@ req.body
 
 
 
-req.query(#req-query)
+req.query
 =========
 **contains**:
 
