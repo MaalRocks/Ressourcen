@@ -39,6 +39,9 @@
     - [npx create-next-app@latest](https://nextjs.org/docs/getting-started)
     - [npm TailwindCSS](https://tailwindcss.com/docs/guides/nextjs)
     - [npm install --save-dev @svgr/webpack](https://react-svgr.com/docs/next/)
+    
+  - Prettier + TailwindCSS (CSS autosort)
+    - [github](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
 ---
 
