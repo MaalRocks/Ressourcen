@@ -52,6 +52,7 @@
 
 - ### **ReactJS/NextJS** 	:feelsgood:
   - [manage NextJS state with MobX](https://dev.to/ivandotv/mobx-server-side-rendering-with-next-js-4m18)
+  - [Set Cookies](https://maxschmitt.me/posts/next-js-cookies/)
   
 ---  
   
