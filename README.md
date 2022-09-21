@@ -30,7 +30,7 @@
     - [Figma Community](https://www.figma.com/community/file/956945873510691309)
     
   - Unity
-    - [GitHub Repo - **copy**](https://github.com/MaalRocks/Unity_CheatSheet)
+    - [GitHub Repo - **copy**](https://github.com/MaalRocks/Unity_CheatSheet) from https://github.com/ozankasikci/unity-cheat-sheet
 
 ---
 
