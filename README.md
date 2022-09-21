@@ -50,32 +50,32 @@
 
 ---
 
-- ### **ReactJS/NextJS** 	:feelsgood:
+- ### **ReactJS/NextJS** 	:feelsgood
   - [manage NextJS state with MobX](https://dev.to/ivandotv/mobx-server-side-rendering-with-next-js-4m18)
   - [Set Cookies](https://maxschmitt.me/posts/next-js-cookies/)
   
 ---  
   
-- ### **Website Design** :art:
+- ### **Website Design** 🥋
   - [Nicepage.com - inspiration](https://nicepage.com/de/website-design)
   - [Haikei - SVG Background Generator](https://app.haikei.app/)
  
 --- 
  
-- ### **TailwindCSS** :rainbow:
+- ### **TailwindCSS** 🌈
   - [Docs](https://tailwindcss.com/docs/aspect-ratio)
 
 ---
 
 
-- ### **Remix** :control_knobs:
+- ### **Remix** 🎛️
   - [egghead.io - Up and Running with Remix](https://egghead.io/courses/up-and-running-with-remix-b82b6bb6)
   - [remix.run - Quickstart](https://remix.run/docs/en/v1/tutorials/blog#quickstart)
 
 ---
   
   
-- ### **Fonts** :page_facing_up:
+- ### **Fonts** 📄
   - [freetypography](freetypography.com/)
     - [Basement](https://freetypography.com/2020/05/02/free-font-basement/)
     - [Wask New](https://freetypography.com/2015/09/06/free-font-wask-new/)
@@ -84,28 +84,28 @@
 
 ---
 
-- ### **React animations lib** :clapper:
+- ### **React animations lib** 🎬
   - [react spring](https://github.com/pmndrs/react-spring)
   - [framer](https://github.com/framer/motion/tree/main/packages/framer-motion) | **$/m**
  
 ---
  
-- ### **React Query** :postal_horn:
+- ### **React Query** 📯
   - [Practical Guide](https://tkdodo.eu/blog/practical-react-query)   
   - [tanStack](https://tanstack.com/)
 
 ---
 
-- ### **GraphQL** :cyclone:
+- ### **GraphQL** 🌀
   - [generate code from Schema](https://www.graphql-code-generator.com/)
     - [PlugIn](https://www.graphql-code-generator.com/plugins/typescript/typescript-react-query)
     
 ---
 
-- ### **MongoDB** :snake:
+- ### **MongoDB** 🐍
   - [Doc](https://www.mongodb.com/docs/)
     
 ---  
     
-- ### **PixelArt** :art:
+- ### **Gaming** 🎮
   - [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
