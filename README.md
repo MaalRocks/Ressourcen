@@ -102,10 +102,10 @@
     
 ---
 
-- ### **MongoDB** :goose:
-  - [MongoDB]
-    - [Doc](https://www.mongodb.com/docs/)
+- ### **MongoDB** :snake:
+  - [Doc](https://www.mongodb.com/docs/)
     
-- ### **Mongoose** :goose:
-  - [Mongoose]
-    - [Doc](https://mongoosejs.com/docs/guide.html)
+---  
+    
+- ### **PixelArt** :art:
+  - [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
