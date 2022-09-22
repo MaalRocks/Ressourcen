@@ -111,3 +111,11 @@
   - [https://www.pixelartcss.com/](https://www.pixelartcss.com/)
   - [https://www.pixelartcss.com/](https://opengameart.org/)
   - [https://pixel8.vsmode.org/](https://pixel8.vsmode.org/)
+  
+
+- ### **Stack** :stack
+  - Packetmanager: pnpm
+  - Runtime: Vite
+  - Testing: Vitest
+  - Metaframework/Frameworkmanager: Astro
+  - JavaScript-Framework: SolidJS
