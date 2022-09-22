@@ -114,8 +114,12 @@
   
 
 - ### **Stack** :stack
-  - Packetmanager: pnpm
-  - Runtime: Vite
-  - Testing: Vitest
-  - Metaframework/Frameworkmanager: Astro
-  - JavaScript-Framework: SolidJS
+  - Content-First (This includes most marketing sites, publishing sites, documentation sites, blogs, portfolios, and some ecommerce sites.)
+    - Packetmanager: pnpm
+    - Runtime: Vite
+    - Testing: Vitest
+    - Metaframework/Frameworkmanager: Astro
+    - JavaScript-Framework: SolidJS
+
+  - Interaktion-First (Logged-in admin dashboards, inboxes, social networks, todo lists)
+    - JavaScript-Framework: NextJS
