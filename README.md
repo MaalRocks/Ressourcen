@@ -59,6 +59,9 @@
 >
 > In other words, use Prettier for formatting and linters for catching bugs!
 >    
+  
+  - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+  - [stylelint-config-prettier](https://github.com/prettier/stylelint-config-prettier)
 
 
 ---
