@@ -47,7 +47,7 @@
 
 
 - ### **DevEnv** :hear_no_evil:
-  - Prettier vs. Linters
+  - [Prettier vs. Linters](https://prettier.io/docs/en/comparison.html)
 >  Formatting rules: eg: max-len, no-mixed-spaces-and-tabs, keyword-spacing, comma-style…
 >
 > Prettier alleviates the need for this whole category of rules! Prettier is going to reprint the entire program from scratch in a consistent 
