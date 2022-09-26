@@ -82,6 +82,7 @@
   - [Nicepage.com - inspiration](https://nicepage.com/de/website-design)
   - [Haikei - SVG Background Generator](https://app.haikei.app/)
   - [Heropattern - SVG Background Generator](https://heropatterns.com/)
+  - [Heroicons - SVG Icons](https://heroicons.com/)
  
 --- 
  
